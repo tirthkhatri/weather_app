@@ -38,6 +38,8 @@ dependencies:
   http: ^1.4.0
   intl: ^0.20.2
   interpolate_animated: ^0.0.1
+  google_fonts: ^6.2.1
+  flutter_riverpod: ^2.6.1
 
 dev_dependencies:
   flutter_test:
